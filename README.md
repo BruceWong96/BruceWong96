@@ -9,7 +9,7 @@ I'm Bruce Wong, a **Big Data Architect** with a degree in Software Engineering. 
 - **Apache SeaTunnel Contributor**: [Apache SeaTunnel](https://seatunnel.apache.org/) is a very easy-to-use, ultra-high-performance, distributed data integration platform that supports real-time synchronization of massive data.
 
 ## 📘 Personal Blog
-I love to share my knowledge and experiences on my [personal blog](https://blog.wumalife.com/). Feel free to check it out for insights on data engineering, big data, and more.
+I love to share my knowledge and experiences on my [personal blog](https://blog.wumalife.com/)（I've encountered a issue recently and currently i am fixing it.）. Feel free to check it out for insights on data engineering, big data, and more.
 
 ## 🌟 Passion for Open Source
 I'm passionate about open-source projects and enjoy the freedom to exchange ideas and technologies with the community.
